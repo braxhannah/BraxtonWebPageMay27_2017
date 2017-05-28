@@ -64,17 +64,6 @@ ul.nav-menu {
   font-weight: 400;
 }
 
-a {
-  text-decoration: none;
-  color: white;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-}
-
-a:hover{
-  color: #A7E7FF
-}
-
 .nav-menu li.logo {
   background-image: url(./logo_white.png);
   background-position: center;
@@ -271,7 +260,7 @@ p.filler {
   font-color: #0F3559;
   font-type: roboto;
   font-weight: 400;
-  type-decoration: none;
+  text-decoration: none;
 }
 /* nested list on click */
 .condoUnits{
